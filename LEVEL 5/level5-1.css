@@ -1,0 +1,115 @@
+
+p1 {
+    background-color: black;
+    color: white;
+    width: 100px;
+    
+    
+  }
+  
+  
+  
+  p2 {
+    background-color: black;
+    color: white;
+    width: 50px;
+    margin: 40px 80px;
+    
+  }
+  
+  p3 {
+    background-color: black;
+    color: white;
+    width: 10px;
+    margin: 110px 510px;
+    
+  }
+  
+  p4 {
+    background-color: black;
+    color: white;
+    width: 10px;
+    margin: 500px 30px;
+    
+  }
+  
+  p5 {
+    background-color: black;
+    color: white;
+    width: 20px;
+    margin: 10px 400px;
+    
+  }
+  
+  p6 {
+    background-color: black;
+    color: white;
+    width: 20px;
+    margin: 10px 100px;
+    
+  }
+  p7 {
+    background-color: black;
+    color: white;
+    width: 20px;
+    margin: 10px 9000px;
+    
+  }
+  
+  
+  p8 {
+    background-color: black;
+    color: white;
+    width: 1px;
+    margin: 110px 400px;
+    
+  }
+  
+  p9 {
+    background-color: black;
+    color: white;
+    width: 500px;
+    margin: 110px 400px;
+    
+  }
+  
+  div {
+  margin: 40px 80px;
+  padding: 40px 80px;
+  width: 500px;
+  
+  
+  
+  }
+  
+  
+  h1 {
+  margin: 40px 80px;
+  padding: 40px 80px;
+  width: 500px;
+    color: red;
+  
+  
+  
+  }
+  
+  
+  .box {
+    background-color: white;
+    border-radius: 10px;
+    width: 100px;
+    height: 100px;
+    animation-name: rotate;
+    animation-duration: 0.7s;
+    animation-iteration-count: infinite;
+  }
+  
+  @keyframes rotate {
+    0% {
+      transform: rotate(0);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  
