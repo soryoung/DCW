@@ -1,0 +1,19 @@
+div {
+    border: 2px dotted coral;
+    margin: 40px 80px;
+    padding: 40px 80px;
+    width: 300px;
+    display: inline;
+}
+
+
+
+p {
+    background-color: coral;
+    color: white;
+    
+}
+
+em {
+   color: coral;
+}
